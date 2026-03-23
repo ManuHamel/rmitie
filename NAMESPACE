@@ -1,0 +1,7 @@
+useDynLib(rmitie, .registration = TRUE)
+importFrom(Rcpp, evalCpp)
+export(mitie_load_ner_model)
+export(mitie_tokenize)
+export(mitie_extract_entities)
+export(mitie_download_models)
+export(mitie_download_and_load_ner_model)

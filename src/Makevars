@@ -1,0 +1,2 @@
+PKG_CPPFLAGS = -I"$(MITIE_INCLUDE)"
+PKG_LIBS = -L"$(MITIE_LIB)" -lmitie
