@@ -645,3 +645,22 @@ library(rmitie)
 2     6      1     LOCATION 1.623440             Hawaii
 3    10      2 ORGANIZATION 1.244351 Harvard University
 ```
+
+
+📜 License
+
+MIT License
+
+👤 Author
+
+Emmanuel Hamel
+
+🤝 Contributing
+
+Pull requests are welcome!
+
+For major changes, please open an issue first.
+
+⭐ Support
+
+If you find this package useful, consider giving it a star ⭐
